@@ -27,7 +27,7 @@ The project involves:
      - **Logistic Regression**
      - **Support Vector Machines (SVM)**
      - **Random Forest**
-     - **Convolutional Neural Networks (CNN)** for advanced image analysis.
+  
 
 5. **Performance Metrics**
    - Accuracy and confusion matrix analysis for model evaluation.
